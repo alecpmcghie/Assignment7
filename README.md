@@ -16,3 +16,5 @@ All of the headers are Strings and all of the numbers are string data but in the
 ## Any known issues or potential issues, such as sources of bias in collection
 There is a potential issue with the fairness that Barry had throughout his career. All of his numbers have been discredited because of his steroid scandal and it has barred him from the Hall Of Fame. The accuracy however is very accurate because baseball reference is the gold standard for baseball statistics.
 
+## Link to the data on data.world
+https://data.world/alec-mcghie/assignment-6-data/workspace/file?filename=Barry+Bonds+2001+Batting+Game+Logs+data_FINAL.csv
